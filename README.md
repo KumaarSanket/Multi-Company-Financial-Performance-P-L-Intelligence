@@ -10,13 +10,13 @@
 
 ## 💹 Financial Performance Dashboard
 
-![Financial Performance Dashboard](images/Financial%20Performance%20Dashboard.jpeg)
+![Financial Performance Dashboard](Financial%20Performance%20Dashboard.jpeg)
 
-![Financial Performance Dashboard 2](images/Financial%20Performance%20Dashboard%20%282%29.jpeg)
+![Financial Performance Dashboard 2](Financial%20Performance%20Dashboard%20%282%29.jpeg)
 
-![Financial Performance Dashboard 3](images/Financial%20Performance%20Dashboard%20%283%29.jpeg)
+![Financial Performance Dashboard 3](Financial%20Performance%20Dashboard%20%283%29.jpeg)
 
-![Financial Performance Dashboard 4](images/Financial%20Performance%20Dashboard%20%284%29.jpeg)
+![Financial Performance Dashboard 4](Financial%20Performance%20Dashboard%20%284%29.jpeg)
 
 > Data Analytics · K.S. · Tools: Python → Excel → MySQL → Power BI
 
